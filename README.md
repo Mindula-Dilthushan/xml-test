@@ -1,3 +1,3 @@
 # XML
 
-[[Official Site](https://www.xml.com/)]
+[Official Site](https://www.xml.com/)
